@@ -18,3 +18,14 @@ em desafio as minhas habilidades e me façam pensar em soluções para concluir 
 # Status do GitHub
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Tauan-Ray&theme=neon&hide_border=false&include_all_commits=false&count_private=false" width="364px"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tauan-Ray&theme=neon&hide_border=false"  width="400px" />
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Tauan-Ray&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<div align="center">
+    
+  ![snake gif](https://github.com/Tauan-Ray/Tauan-Ray/blob/output/github-snake-dark.svg)
+</div>
+
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=Tauan-Ray&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
