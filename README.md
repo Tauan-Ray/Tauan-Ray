@@ -1,19 +1,36 @@
 # 👋 Sejam bem vindos
-Sou Tauan Ray, tenho 17 anos e sou uma pessoa apaixonada por desenvolvimento de software. Minha jornada no mundo da programação 
+Sou Tauan Ray, tenho 18 anos e sou uma pessoa apaixonada por desenvolvimento de software. Minha jornada no mundo da programação 
 teve início no começo do curso técnico, que logo de cara me fez ficar fascinado com o mundo de desenvolvimento de software. 
 
 
 # 🚀 Especialidades
-Tenho conhecimentos básicos em HTML, CSS, Javascript e PHP. Também possuo conhecimentos nas linguagens Python e Java, sabendo aplicar bem meus conhecimentos. 
-Sempre estou em busca de aprender novas tecnologias e aprofundar as habilidades que já possuo. Tenho apreço por trabalhar em projetos que ponham 
-em desafio as minhas habilidades e me façam pensar em soluções para concluir esses desafios.
+Sou desenvolvedor web com experiência no desenvolvimento de aplicações modernas utilizando React, Next.js, Node.js e Nest.js.
+Trabalho com bancos de dados relacionais como PostgreSQL, MySQL e SQL Server, além de utilizar ferramentas como Prisma, Git e Docker no dia a dia.
+Estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e participar de projetos que me desafiem a criar soluções eficientes, escaláveis e bem estruturadas.
 
 # 💻 Tecnologias
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+
 
 # 🌐 Contato
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) tauanray995@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tauanray995@gmail.com)  
+**tauanray995@gmail.com**
+
 
 # Status do GitHub
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Tauan-Ray&theme=neon&hide_border=false&include_all_commits=false&count_private=false" width="364px"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tauan-Ray&theme=neon&hide_border=false"  width="400px" />
